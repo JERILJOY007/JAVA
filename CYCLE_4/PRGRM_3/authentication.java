@@ -1,4 +1,4 @@
-//Write a user defined exception class to authenticate the user name and password.
+//Write a user defined exception class to authenticate the user name and password
 package CO4Q3;
 
 import java.util.Scanner;
