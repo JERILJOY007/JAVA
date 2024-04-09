@@ -1,5 +1,5 @@
 //Create a Graphics package that has classes and interfaces for figures Rectangle, Triangle,
-//Square and Circle. Test the package by finding the area of these figures.
+//Square and Circle. Test the package by finding the area of these figures
 package CO4Q1;
 import CO4Q1.graphics.circle;
 import CO4Q1.graphics.rectangle;
